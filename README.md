@@ -67,4 +67,6 @@ Added for Department to allow dynamic filtering.
 	This Power BI dashboard effectively visualizes employee attrition patterns, helping HR managers make informed decisions. By identifying high-risk groups and underlying causes, organizations can reduce turnover, improve employee satisfaction, and enhance overall productivity.
 
 6]Dashboard :
+	![Employee_Attrition_Dashboard](https://github.com/user-attachments/assets/ed1a83d6-726e-4f40-b16a-a6e259c92982)
+
 
